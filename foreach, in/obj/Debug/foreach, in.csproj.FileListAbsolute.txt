@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\bin\Debug\foreach, in.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\bin\Debug\foreach, in.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\bin\Debug\foreach, in.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\obj\Debug\foreach, in.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\obj\Debug\foreach, in.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\obj\Debug\foreach, in.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\obj\Debug\foreach, in.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\foreach, in\obj\Debug\foreach, in.pdb

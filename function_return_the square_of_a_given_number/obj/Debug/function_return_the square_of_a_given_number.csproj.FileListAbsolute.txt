@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\obj\Debug\function_return_the square_of_a_given_number.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\obj\Debug\function_return_the square_of_a_given_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\obj\Debug\function_return_the square_of_a_given_number.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\bin\Debug\function_return_the square_of_a_given_number.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\bin\Debug\function_return_the square_of_a_given_number.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\bin\Debug\function_return_the square_of_a_given_number.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\obj\Debug\function_return_the square_of_a_given_number.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\New folder\function_return_the square_of_a_given_number\obj\Debug\function_return_the square_of_a_given_number.pdb
