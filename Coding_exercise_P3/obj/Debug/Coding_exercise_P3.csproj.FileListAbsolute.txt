@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\bin\Debug\Coding_exercise_P3.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\bin\Debug\Coding_exercise_P3.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\bin\Debug\Coding_exercise_P3.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\obj\Debug\Coding_exercise_P3.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\obj\Debug\Coding_exercise_P3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\obj\Debug\Coding_exercise_P3.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\obj\Debug\Coding_exercise_P3.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P3\obj\Debug\Coding_exercise_P3.pdb

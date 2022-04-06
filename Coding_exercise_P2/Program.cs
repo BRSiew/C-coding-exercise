@@ -13,7 +13,7 @@ namespace Coding_exercise_P2
 
             
 
-            List<string> starList = new List<string>();
+            List<string> starList = new List<string>(); // List of all the strings
             starList.Add("parts");
             starList.Add("traps");
             starList.Add("arts");
@@ -27,12 +27,12 @@ namespace Coding_exercise_P2
             starList.Add("stars");
             starList.Add("stray");
 
-            var star = from word in starList
-                 where word.Length == 4
-                 select word;
+            var star = from word in starList    // select word from the list of string
+                 where word.Length == 4         // condition is that the string lengh has to be 4
+                 select word;                   // return the strings that meet the condition
 
 
-            Console.WriteLine(string.Join(",",star));
+            Console.WriteLine(string.Join(",",star));   // join the strings together with a ',' in between each string
             Console.ReadLine();
 
 
