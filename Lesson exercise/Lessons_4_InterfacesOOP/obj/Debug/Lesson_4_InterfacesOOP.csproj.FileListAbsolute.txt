@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\bin\Debug\Lesson_4_InterfacesOOP.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\bin\Debug\Lesson_4_InterfacesOOP.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\bin\Debug\Lesson_4_InterfacesOOP.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\obj\Debug\Lesson_4_InterfacesOOP.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\obj\Debug\Lesson_4_InterfacesOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\obj\Debug\Lesson_4_InterfacesOOP.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\obj\Debug\Lesson_4_InterfacesOOP.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_4_InterfacesOOP\obj\Debug\Lesson_4_InterfacesOOP.pdb

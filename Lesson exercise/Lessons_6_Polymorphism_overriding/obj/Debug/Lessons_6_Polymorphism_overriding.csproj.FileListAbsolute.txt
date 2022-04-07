@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\bin\Debug\Lessons_6_Polymorphism_overriding.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\bin\Debug\Lessons_6_Polymorphism_overriding.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\bin\Debug\Lessons_6_Polymorphism_overriding.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\obj\Debug\Lessons_6_Polymorphism_overriding.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\obj\Debug\Lessons_6_Polymorphism_overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\obj\Debug\Lessons_6_Polymorphism_overriding.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\obj\Debug\Lessons_6_Polymorphism_overriding.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_6_Polymorphism_overriding\obj\Debug\Lessons_6_Polymorphism_overriding.pdb

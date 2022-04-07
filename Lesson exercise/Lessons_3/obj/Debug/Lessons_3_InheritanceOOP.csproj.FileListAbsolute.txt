@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\bin\Debug\Lessons.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\bin\Debug\Lessons.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\bin\Debug\Lessons.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\obj\Debug\Lessons_3_InheritanceOOP.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\obj\Debug\Lessons_3_InheritanceOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\obj\Debug\Lessons_3_InheritanceOOP.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\obj\Debug\Lessons.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons\obj\Debug\Lessons.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_3_InheritanceOOP", "Lessons\Lessons_3_InheritanceOOP.csproj", "{3D392650-1C50-4F19-97C3-131C22FD7353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_4_InterfacesOOP", "Lesson_4_InterfacesOOP\Lessons_4_InterfacesOOP.csproj", "{4CD0BC3D-07DB-40E4-83E8-BC37925C6FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_5_Polymorphism_overloading", "Lessons_5_Polymorphism_overloading\Lessons_5_Polymorphism_overloading.csproj", "{301DCACA-F9D8-4895-93AD-95E9B0BDAF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_6_Polymorphism_overriding", "Lessons_6_Polymorphism_overriding\Lessons_6_Polymorphism_overriding.csproj", "{BF1795DF-3D68-4FE6-886D-97E2BA558CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D392650-1C50-4F19-97C3-131C22FD7353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D392650-1C50-4F19-97C3-131C22FD7353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D392650-1C50-4F19-97C3-131C22FD7353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D392650-1C50-4F19-97C3-131C22FD7353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD0BC3D-07DB-40E4-83E8-BC37925C6FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD0BC3D-07DB-40E4-83E8-BC37925C6FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD0BC3D-07DB-40E4-83E8-BC37925C6FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD0BC3D-07DB-40E4-83E8-BC37925C6FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301DCACA-F9D8-4895-93AD-95E9B0BDAF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301DCACA-F9D8-4895-93AD-95E9B0BDAF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301DCACA-F9D8-4895-93AD-95E9B0BDAF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301DCACA-F9D8-4895-93AD-95E9B0BDAF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1795DF-3D68-4FE6-886D-97E2BA558CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1795DF-3D68-4FE6-886D-97E2BA558CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1795DF-3D68-4FE6-886D-97E2BA558CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1795DF-3D68-4FE6-886D-97E2BA558CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7C6699-F89A-4409-AD8D-FEF63F59EEAC}
+	EndGlobalSection
+EndGlobal
