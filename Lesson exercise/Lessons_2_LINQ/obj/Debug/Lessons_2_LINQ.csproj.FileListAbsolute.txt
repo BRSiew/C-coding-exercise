@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\bin\Debug\Lessons_2_LINQ.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\bin\Debug\Lessons_2_LINQ.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\bin\Debug\Lessons_2_LINQ.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\obj\Debug\Lessons_2_LINQ.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\obj\Debug\Lessons_2_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\obj\Debug\Lessons_2_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\obj\Debug\Lessons_2_LINQ.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_2_LINQ\obj\Debug\Lessons_2_LINQ.pdb

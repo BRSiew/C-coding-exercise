@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\bin\Debug\Using_String_Builder.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\bin\Debug\Using_String_Builder.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\bin\Debug\Using_String_Builder.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\obj\Debug\Using_String_Builder.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\obj\Debug\Using_String_Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\obj\Debug\Using_String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\obj\Debug\Using_String_Builder.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Using_String_Builder\obj\Debug\Using_String_Builder.pdb

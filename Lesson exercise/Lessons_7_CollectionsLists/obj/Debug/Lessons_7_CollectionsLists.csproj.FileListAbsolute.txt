@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\bin\Debug\Lessons_7_CollectionsLists.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\bin\Debug\Lessons_7_CollectionsLists.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\bin\Debug\Lessons_7_CollectionsLists.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\obj\Debug\Lessons_7_CollectionsLists.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\obj\Debug\Lessons_7_CollectionsLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\obj\Debug\Lessons_7_CollectionsLists.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\obj\Debug\Lessons_7_CollectionsLists.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsLists\obj\Debug\Lessons_7_CollectionsLists.pdb

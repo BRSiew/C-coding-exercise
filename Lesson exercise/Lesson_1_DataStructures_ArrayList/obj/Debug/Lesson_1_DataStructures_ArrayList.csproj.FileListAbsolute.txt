@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\bin\Debug\Lesson_1_DataStructures_ArrayList.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\bin\Debug\Lesson_1_DataStructures_ArrayList.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\bin\Debug\Lesson_1_DataStructures_ArrayList.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\obj\Debug\Lesson_1_DataStructures_ArrayList.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\obj\Debug\Lesson_1_DataStructures_ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\obj\Debug\Lesson_1_DataStructures_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\obj\Debug\Lesson_1_DataStructures_ArrayList.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lesson_1_DataStructures_ArrayList\obj\Debug\Lesson_1_DataStructures_ArrayList.pdb

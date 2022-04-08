@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\bin\Debug\Lessons_7_CollectionsListofObjects.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\bin\Debug\Lessons_7_CollectionsListofObjects.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\bin\Debug\Lessons_7_CollectionsListofObjects.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\obj\Debug\Lessons_7_CollectionsListofObjects.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\obj\Debug\Lessons_7_CollectionsListofObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\obj\Debug\Lessons_7_CollectionsListofObjects.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\obj\Debug\Lessons_7_CollectionsListofObjects.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_7_CollectionsListofObjects\obj\Debug\Lessons_7_CollectionsListofObjects.pdb
