@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1_DataStructures_Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_8_NUnit3_Testing", "Lessons_8_NUnit3_Testing\Lessons_8_NUnit3_Testing.csproj", "{67CA23E7-500E-4CE9-AB54-6994004458E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_9_Sockets", "Lessons_9_Sockets\Lessons_9_Sockets.csproj", "{7841CE40-A0FA-4F73-B543-2C34AD4D198D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons_9_SocketServer", "Lessons_9_SocketServer\Lessons_9_SocketServer.csproj", "{098D831A-8974-451B-BC5B-F014B517BDA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{67CA23E7-500E-4CE9-AB54-6994004458E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67CA23E7-500E-4CE9-AB54-6994004458E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67CA23E7-500E-4CE9-AB54-6994004458E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7841CE40-A0FA-4F73-B543-2C34AD4D198D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7841CE40-A0FA-4F73-B543-2C34AD4D198D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7841CE40-A0FA-4F73-B543-2C34AD4D198D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7841CE40-A0FA-4F73-B543-2C34AD4D198D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098D831A-8974-451B-BC5B-F014B517BDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098D831A-8974-451B-BC5B-F014B517BDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098D831A-8974-451B-BC5B-F014B517BDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098D831A-8974-451B-BC5B-F014B517BDA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

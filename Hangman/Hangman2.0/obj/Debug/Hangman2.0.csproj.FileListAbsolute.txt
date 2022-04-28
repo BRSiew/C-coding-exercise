@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\bin\Debug\Hangman2.0.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\bin\Debug\Hangman2.0.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\bin\Debug\Hangman2.0.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\obj\Debug\Hangman2.0.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\obj\Debug\Hangman2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\obj\Debug\Hangman2.0.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\obj\Debug\Hangman2.0.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Hangman\Hangman2.0\obj\Debug\Hangman2.0.pdb

@@ -1,0 +1,8 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\bin\Debug\Lessons_9_SocketServer.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\bin\Debug\Lessons_9_SocketServer.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\bin\Debug\Lessons_9_SocketServer.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\obj\Debug\Lessons_9_SocketServer.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\obj\Debug\Lessons_9_SocketServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\obj\Debug\Lessons_9_SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\obj\Debug\Lessons_9_SocketServer.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Lesson exercise\Lessons_9_SocketServer\obj\Debug\Lessons_9_SocketServer.pdb
