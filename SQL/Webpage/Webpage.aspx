@@ -50,7 +50,7 @@
                     <li><a href="https://localhost:44324/Webpage.aspx">HOME</a></li>
                     <li><a href="https://localhost:44324/Product_page.aspx">PRODUCTS</a></li>
                     <li><a href="https://localhost:44324/Location.aspx">LOCATION</a></li>
-                    <li><a href="#">DETAILED PRODUCT PAGE</a></li>
+                    <li><a href="#">DETAILED PRODUCT</a></li>
                     <li><a href="https://localhost:44324/Feedback.aspx">FEEDBACK</a></li>
                 </ul>
             </nav>
