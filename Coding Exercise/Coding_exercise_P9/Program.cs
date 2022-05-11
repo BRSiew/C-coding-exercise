@@ -33,8 +33,8 @@ namespace Coding_exercise_P9
                         
                         //Console.WriteLine($"{PrimeNumber[x]}");     // 
                        // Console.Write("Number:  ");                      // type numbers to get a string 
-                       // var num = int.Parse(Console.ReadLine()); // converts string representation to number
-                        int num = 5;    // type number here
+                        var num = int.Parse(Console.ReadLine()); // converts string representation to number
+                        //int num = 5;    // type number here
                         count++;
                         if (count== num)
                         {

@@ -6,3 +6,11 @@ C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P7\ob
 C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.csproj.CoreCompileInputs.cache
 C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.exe
 C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\bin\Debug\Coding_exercise_P7.exe.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\bin\Debug\Coding_exercise_P7.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\bin\Debug\Coding_exercise_P7.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.exe
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Coding Exercise\Coding_exercise_P7\obj\Debug\Coding_exercise_P7.pdb
