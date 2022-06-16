@@ -1,0 +1,12 @@
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\CRUDLibrary.dll.config
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\CRUDLibrary.dll
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\CRUDLibrary.pdb
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\obj\Debug\CRUDLibrary.csproj.AssemblyReference.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\obj\Debug\CRUDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\obj\Debug\CRUDLibrary.csproj.CopyComplete
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\obj\Debug\CRUDLibrary.dll
+C:\Users\Beng Ren Siew\OneDrive\Desktop\C# coding exercise\Web\CRUDLibrary\obj\Debug\CRUDLibrary.pdb
