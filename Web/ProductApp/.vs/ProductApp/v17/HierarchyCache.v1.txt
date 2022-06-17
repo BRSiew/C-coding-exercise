@@ -1,0 +1,212 @@
+﻿++Solution 'ProductApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ProductApp.sln
+++ProductApp
+i:{00000000-0000-0000-0000-000000000000}:ProductApp
+++Properties
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\properties\
+++References
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++Antlr3.Runtime
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++EntityFramework
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++EntityFramework.SqlServer
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++Microsoft.CSharp
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++Microsoft.Web.Infrastructure
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++Newtonsoft.Json
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.ComponentModel.DataAnnotations
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Configuration
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Core
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Data
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Data.DataSetExtensions
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Drawing
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.EnterpriseServices
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Net.Http
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Net.Http.WebRequest
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Abstractions
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.ApplicationServices
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.DynamicData
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Entity
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Extensions
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Helpers
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Mvc
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Optimization
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Razor
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Routing
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.Services
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.WebPages
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.WebPages.Deployment
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Web.WebPages.Razor
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Xml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++System.Xml.Linq
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++WebGrease
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:
+++App_Data
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\app_data\
+++App_Start
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\app_start\
+++Content
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\
+++bootstrap-theme.css
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap.css
+++bootstrap.css.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap.css.map
+++bootstrap.min.css
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\bootstrap.min.css.map
+++Site.css
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\content\site.css
+++Context
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\context\
+++ProductContext.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\context\productcontext.cs
+++Controllers
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\controllers\
+++HomeController.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\controllers\homecontroller.cs
+++ProductController.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\controllers\productcontroller.cs
+++fonts
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\
+++Models
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\models\
+++Product.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\models\product.cs
+++Scripts
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\
+++bootstrap.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\bootstrap.js
+++bootstrap.min.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\scripts\modernizr-2.8.3.js
+++Views
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\
+++Home
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\home\
+++Product
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\
+++Create.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\create.cshtml
+++Delete.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\delete.cshtml
+++Details.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\details.cshtml
+++Edit.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\edit.cshtml
+++Index.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\product\index.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\home\index.cshtml
+++Shared
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\shared\
+++_ViewStart.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\_viewstart.cshtml
+++Web.config
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\web.config
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\web.config
+++favicon.ico
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\favicon.ico
+++Global.asax
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\global.asax
+++packages.config
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\packages.config
+++Web.Debug.config
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\web.debug.config
+++Web.Release.config
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\web.release.config
+++AssemblyInfo.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\properties\assemblyinfo.cs
+++BundleConfig.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\app_start\routeconfig.cs
+++glyphicons-halflings-regular.eot
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\fonts\glyphicons-halflings-regular.woff2
+++About.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\home\about.cshtml
+++Contact.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\home\contact.cshtml
+++_Layout.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\shared\_layout.cshtml
+++Error.cshtml
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\views\shared\error.cshtml
+++Global.asax.cs
+i:{ad201deb-f498-4d84-960b-cebfeb55591e}:c:\users\beng ren siew\onedrive\desktop\c# coding exercise\sql\productapp\global.asax.cs
